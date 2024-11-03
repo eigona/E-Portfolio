@@ -1,6 +1,6 @@
 
 # Greetings, I'm Farhan.
-<div> allign="center"> <img src="https://raw.githubuser.content.com/eigona/eigona/main/" </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/eigona/eigona/main/Beige & Black Geometric Technology LinkedIn Banner.png"> </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 **`Bioinformatics Student (Universiti Teknologi Malaysia)`**
