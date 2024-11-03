@@ -1,6 +1,10 @@
-# E-portfolio
 
-### Objective
-A computer science in bioinformatics student with a passion to learn and explore the world that are full of technologies. Seeking opportunity, ready to use my software skills, and innovative ideas and knowledge skills technical skills to give our best for company growth and organization. Ready to work in challenging environment and industry. I will give my best-effort knowledge to reach the organization's goals and objectives of the computer science field.
+# Greetings, I'm Farhan.
 
-### Summary
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+**`Bioinformatics Student (Universiti Teknologi Malaysia)`**
+
+`Summary`: As a student with a degree in computer science, I am passionate about using technology to solve complex problems and make a positive impact on the world. With experience in software development and data analysis, I have developed a strong foundation in programming languages such as Java, Python, and C++.I am committed to delivering high-quality work and exceeding expectations for my future career. ALso, I am eager to expand my connections with other technology professionals and explore new opportunities for growth and development of my soft skills.
+
+
