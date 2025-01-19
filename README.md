@@ -32,6 +32,12 @@ I am committed to delivering high-quality work and exceeding expectations for my
 
 #
 
-`Awards`
-![image](https://github.com/eigona/E-Portfolio/blob/f37669f488df715c99ba6f33e2eeaab44799a575/piitram1.jpg)
+`Awards`:
+![image](https://github.com/eigona/E-Portfolio/blob/d1968656e85810c57f83febdc4b1d262f3b8a0cf/6255602257714330395.jpg
+)
 **`Pre-University Matriculation Innovation Competition (PIITRAM)`**
+
+![image](https://github.com/eigona/E-Portfolio/blob/d1968656e85810c57f83febdc4b1d262f3b8a0cf/6255602257714330372.jpg)
+**`Perlis Matriculation College representatives`**
+
+![image](https://github.com/eigona/E-Portfolio/blob/d1968656e85810c57f83febdc4b1d262f3b8a0cf/piitram2.jpg)
