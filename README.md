@@ -19,8 +19,11 @@ I am committed to delivering high-quality work and exceeding expectations for my
 <br />
 
 #
-`Education`
+`Education`:
+![image](https://github.com/eigona/E-Portfolio/blob/dbb1f9ebbd41374b067f419da53e98f35adfd187/spm.jpg)
+**Sijil Pelajaran Malaysia (SPM)**
 
+![image]()
 
 
 `Skills`:
