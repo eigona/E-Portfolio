@@ -21,9 +21,15 @@ I am committed to delivering high-quality work and exceeding expectations for my
 #
 `Education`:
 ![image](https://github.com/eigona/E-Portfolio/blob/dbb1f9ebbd41374b067f419da53e98f35adfd187/spm.jpg)
-**Sijil Pelajaran Malaysia (SPM)**
+**Sijil Pelajaran Malaysia (SPM)**: 6A
 
-![image]()
+![image](https://github.com/eigona/E-Portfolio/blob/b11761a9d5d412ce1da77e6ecba92e9327a54ee7/matriks.jpg)
+**Matriculation**: 3.75 (overall cpga)
 
+`Skills`: Good with communications
 
-`Skills`:
+<br />
+
+#
+
+`Awards`
