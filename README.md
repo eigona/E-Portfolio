@@ -44,5 +44,5 @@ I am committed to delivering high-quality work and exceeding expectations for my
 **`Scent2Wake group members`**
 
 ![image](https://github.com/eigona/E-Portfolio/blob/d1968656e85810c57f83febdc4b1d262f3b8a0cf/piitram2.jpg)
-**`Presentation time!`**
+**`Presentation time!`** ->
 We got a silver award for our project.
